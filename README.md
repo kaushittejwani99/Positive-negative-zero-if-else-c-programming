@@ -6,7 +6,7 @@ This program is check a given no is Positive ,negative or zero using if-else-lad
 int main()
 {
    int num;
-   printf("This program make for know the given no is positive or not\n");
+   printf("This program checks the given no is positive ,negative or zero\n");
 
    printf("Enter any no.:-");
    scanf("%d",&num);
